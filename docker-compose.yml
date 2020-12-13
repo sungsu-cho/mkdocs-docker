@@ -2,7 +2,7 @@ version: '3.1'
 
 services:
   MkDocs:
-    image: mkdocs:0.1
+    image: my_mkdocs:0.1
     restart: always
     ports:
       - 8000:8000
