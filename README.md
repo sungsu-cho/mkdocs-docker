@@ -1,6 +1,6 @@
 # mkdocs docker
 
-- use [Python](https://hub.docker.com/_/python) 3.8
+- use [Python](https://hub.docker.com/_/python) 3.8-alpine
 - View the [MkDocs documentation](http://mkdocs.org).
 
 ## Create Docker
